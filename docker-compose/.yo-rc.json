@@ -1,0 +1,11 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["gateway", "invoice", "notification"],
+    "directoryPath": "D:\\document\\CloudComputing\\github\\mastering-microservices/",
+    "gatewayType": "SpringCloudGateway",
+    "clusteredDbApps": ["notification"],
+    "monitoring": "prometheus",
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "ZDdhNDI2ZjkwZTc4NWZiYTNmMjUxMTk5YjlmNTEzN2NkM2U0ZGQ3OWU2NGQ3NWQxZjE0ZTg5YjVmMmVmZTNlM2RjYmY1YzY1MjZlMDBkYzUxZGE0MWJkODcxMDYyZjIwYWFlMg=="
+  }
+}
